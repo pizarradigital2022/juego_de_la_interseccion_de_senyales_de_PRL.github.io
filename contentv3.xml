@@ -85,7 +85,7 @@
    <unicode value="Unidad"></unicode>
   </list>
   <string role="key" value="_name"></string>
-  <unicode value="El_juego_de_la_insterseccin_de_seales"></unicode>
+  <unicode value="El_juego_de_la_interseccin_de_seales_de_PRL"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
   <int value="19"></int>
   <string role="key" value="_nextNodeId"></string>
@@ -96,7 +96,7 @@
    <instance class="exe.engine.node.Node" reference="4">
     <dictionary>
      <string role="key" value="_title"></string>
-     <unicode value="El juego de la instersección de señales de PRL"></unicode>
+     <unicode value="El juego de la intersección de señales de PRL"></unicode>
      <string role="key" value="idevices"></string>
      <list>
       <instance class="exe.engine.jsidevice.JsIdevice" reference="1">
@@ -172,6 +172,8 @@
            <string value=""></string>
            <string role="key" value="anchor_names"></string>
            <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
            <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/IMG_8908.png&quot; alt=&quot;¡Hola!&quot; width=&quot;320&quot; height=&quot;304&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;¡Hola!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;¿Sabías que la ISO 7010 es un estándar de señalización utilizado en los espacios de trabajo? ¿Conoces alguna de las señales de las que se compone este estándar?&lt;/p&gt;
@@ -195,7 +197,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="337"></int>
+                  <int value="364"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -209,7 +211,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="16_131_2.0"></unicode>
+                <unicode value="16_131_2.2"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -220,7 +222,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="IMG_8908.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmp2p6lp5.eXe/previews/allyourbase/IMG_8908.png"></string>
+                  <string value="/tmp/tmpX6BO2n/IMG_8908.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="6cd0ca51ba40249c4539c89fdd35f801"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -249,7 +251,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="1"></int>
+           <int value="3"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -385,7 +387,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="331"></int>
+                  <int value="371"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -399,7 +401,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_127_2.5"></unicode>
+                <unicode value="0_127_2.7"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="8">
                  <dictionary>
@@ -410,7 +412,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="ODS4_y_ODS8.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpRZF8mq/ODS4_y_ODS8.jpg"></string>
+                  <string value="/tmp/tmpX6BO2n/ODS4_y_ODS8.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="33965c90b65e938ea825613a7e8ab4db"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -439,7 +441,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="6"></int>
+           <int value="8"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -544,6 +546,8 @@
            <string value=""></string>
            <string role="key" value="anchor_names"></string>
            <list></list>
+           <string role="key" value="anchors_linked_from_fields"></string>
+           <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
            <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 14pt; color: #0000ff;&quot;&gt;&lt;strong&gt;¿Sabrías decir quién fue Frances Perkins?&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Frances Perkins&lt;/strong&gt; (Boston, Massachusetts, 10 de abril de 1880 - Nueva York, 14 de mayo de 1965) fue la &lt;strong&gt;primera mujer en ser nombrada Secretaria de Trabajo en los Estados Unidos&lt;/strong&gt; en 1933. Durante su trabajo, se dedicó a defender los derechos de los trabajadores y la seguridad en los lugares de trabajo. &lt;strong&gt;Gracias a sus esfuerzos, se aprobaron leyes importantes en EE.UU. como la que estableció horarios y salarios justos, la que protege la salud y la seguridad en el trabajo, y la que creó la Seguridad Social para apoyar a las personas mayores y a quienes lo necesitan&lt;/strong&gt;.&lt;/p&gt;
@@ -574,7 +578,7 @@
            <string role="key" value="nextImageId"></string>
            <int value="0"></int>
            <string role="key" value="parentNode"></string>
-           <none></none>
+           <reference key="4"></reference>
           </dictionary>
          </instance>
         </list>
@@ -614,7 +618,7 @@
      <string role="key" value="exportType"></string>
      <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:El%20juego%20de%20la%20instersecci%C3%B3n%20de%20se%C3%B1ales%20de%20PRL"></string>
+     <string value="exe-node:El%20juego%20de%20la%20intersecci%C3%B3n%20de%20se%C3%B1ales%20de%20PRL"></string>
      <string role="key" value="parent"></string>
      <none></none>
      <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -690,7 +694,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="334"></int>
+                     <int value="363"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -704,7 +708,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="14_129_2.0"></unicode>
+                   <unicode value="14_129_2.2"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="14">
                     <dictionary>
@@ -715,7 +719,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="IMG_8909.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmp2p6lp5.eXe/previews/allyourbase/IMG_8909.png"></string>
+                     <string value="/tmp/tmpX6BO2n/IMG_8909.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="27a7519a72b23d112147363d8949bbc8"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -744,7 +748,7 @@ learning tasks."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="1"></int>
+              <int value="3"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -968,7 +972,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="320"></int>
+                     <int value="356"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -982,7 +986,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.50"></unicode>
+                   <unicode value="1_128_2.70"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="17">
                     <dictionary>
@@ -993,7 +997,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="ISO_7010_P013.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/ISO_7010_P013.svg.png"></string>
+                     <string value="/tmp/tmpX6BO2n/ISO_7010_P013.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="3f3ff6e397846d442a43c768e2c530c3"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1020,7 +1024,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="321"></int>
+                     <int value="357"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1034,7 +1038,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.51"></unicode>
+                   <unicode value="1_128_2.71"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="18">
                     <dictionary>
@@ -1045,7 +1049,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="ISO_7010_F016.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/ISO_7010_F016.svg.png"></string>
+                     <string value="/tmp/tmpX6BO2n/ISO_7010_F016.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="95d4c6383d5d09a1b730922eca1405ee"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1072,7 +1076,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="322"></int>
+                     <int value="358"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1086,7 +1090,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.52"></unicode>
+                   <unicode value="1_128_2.72"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="19">
                     <dictionary>
@@ -1097,7 +1101,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="ISO_7010_W009.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/ISO_7010_W009.svg.png"></string>
+                     <string value="/tmp/tmpX6BO2n/ISO_7010_W009.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="58987e52cd804ed7e83f3935ada1b8c0"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1124,7 +1128,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="323"></int>
+                     <int value="359"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1138,7 +1142,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.53"></unicode>
+                   <unicode value="1_128_2.73"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="20">
                     <dictionary>
@@ -1149,7 +1153,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="ISO_7010_P002.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/ISO_7010_P002.svg.png"></string>
+                     <string value="/tmp/tmpX6BO2n/ISO_7010_P002.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f0e3676801234fad53b120d36f2c6f9e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1176,7 +1180,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="325"></int>
+                     <int value="361"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1190,7 +1194,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.54"></unicode>
+                   <unicode value="1_128_2.74"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="21">
                     <dictionary>
@@ -1201,7 +1205,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="ISO_7010_E003_-_First_aid_sign.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/ISO_7010_E003_-_First_aid_sign.svg.png"></string>
+                     <string value="/tmp/tmpX6BO2n/ISO_7010_E003_-_First_aid_sign.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="9746e185bcf696bc41eaf9acc24bcece"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1228,7 +1232,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="327"></int>
+                     <int value="366"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1242,7 +1246,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.55"></unicode>
+                   <unicode value="1_128_2.75"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="22">
                     <dictionary>
@@ -1253,7 +1257,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="ISO_7010_M015.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/ISO_7010_M015.svg.png"></string>
+                     <string value="/tmp/tmpX6BO2n/ISO_7010_M015.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="0f1d6bbe7c9cd3bddf638f1961d319f8"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1280,7 +1284,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="328"></int>
+                     <int value="367"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1294,7 +1298,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.56"></unicode>
+                   <unicode value="1_128_2.76"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="23">
                     <dictionary>
@@ -1305,7 +1309,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="ISO_7010_E002_new.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/ISO_7010_E002_new.svg.png"></string>
+                     <string value="/tmp/tmpX6BO2n/ISO_7010_E002_new.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="6d3cb12741702ed7ad8fa2a001fad57d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1332,7 +1336,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="329"></int>
+                     <int value="368"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1346,7 +1350,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.57"></unicode>
+                   <unicode value="1_128_2.77"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="24">
                     <dictionary>
@@ -1357,7 +1361,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="ISO_7010_W003.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/ISO_7010_W003.svg.png"></string>
+                     <string value="/tmp/tmpX6BO2n/ISO_7010_W003.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="87d12c2782b21580e7a48a93dcafad4b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1384,7 +1388,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="330"></int>
+                     <int value="369"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1398,7 +1402,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.58"></unicode>
+                   <unicode value="1_128_2.78"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="25">
                     <dictionary>
@@ -1409,7 +1413,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="ISO_7010_M014.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/ISO_7010_M014.svg.png"></string>
+                     <string value="/tmp/tmpX6BO2n/ISO_7010_M014.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="6f8164e5087a44df07ae9b241efbb802"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1436,7 +1440,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="333"></int>
+                     <int value="373"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1450,7 +1454,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="1_128_2.59"></unicode>
+                   <unicode value="1_128_2.79"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="26">
                     <dictionary>
@@ -1461,7 +1465,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="ISO_7010_F001.svg.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/ISO_7010_F001.svg.png"></string>
+                     <string value="/tmp/tmpX6BO2n/ISO_7010_F001.svg.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="1c50895acf59b1fdc213de437fa07879"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1490,7 +1494,7 @@ learning tasks."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="60"></int>
+              <int value="80"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -1755,7 +1759,7 @@ learning tasks."></unicode>
                 <string role="key" value="_storageName"></string>
                 <string value="Plantilla de tabla de simbolos.odt"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpRZF8mq/Plantilla de tabla de simbolos.odt"></string>
+                <string value="/tmp/tmpX6BO2n/Plantilla de tabla de simbolos.odt"></string>
                 <string role="key" value="checksum"></string>
                 <string value="d34600fcb417bbf485bcdab673ce0ec8"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2060,7 +2064,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="332"></int>
+                     <int value="372"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2074,7 +2078,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="5_132_2.5"></unicode>
+                   <unicode value="5_132_2.7"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="35">
                     <dictionary>
@@ -2085,7 +2089,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Captura_de_pantalla_de_2024-12-15_20-59-46.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/Captura_de_pantalla_de_2024-12-15_20-59-46.png"></string>
+                     <string value="/tmp/tmpX6BO2n/Captura_de_pantalla_de_2024-12-15_20-59-46.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ca446bba9ff021d31fc618d0fa1b163a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2114,7 +2118,7 @@ learning tasks."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="6"></int>
+              <int value="8"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -2282,7 +2286,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="324"></int>
+                     <int value="360"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2296,7 +2300,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_127_2.8"></unicode>
+                   <unicode value="6_127_2.12"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="38">
                     <dictionary>
@@ -2307,7 +2311,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="presentation-clipart-xl.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/presentation-clipart-xl.png"></string>
+                     <string value="/tmp/tmpX6BO2n/presentation-clipart-xl.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="7ec3aa3faac291de7e7b0b2dd51a827c"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2334,7 +2338,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="326"></int>
+                     <int value="365"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -2348,7 +2352,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="6_127_2.9"></unicode>
+                   <unicode value="6_127_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="39">
                     <dictionary>
@@ -2359,7 +2363,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="pexels-kampus-8813497.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmpRZF8mq/pexels-kampus-8813497.jpg"></string>
+                     <string value="/tmp/tmpX6BO2n/pexels-kampus-8813497.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="327ba8c910d2024e859804941e621c6e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2388,7 +2392,7 @@ learning tasks."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="10"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="13"></reference>
              </dictionary>
@@ -2600,7 +2604,7 @@ learning tasks."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:El%20juego%20de%20la%20instersecci%C3%B3n%20de%20se%C3%B1ales%20de%20PRL:Secuencia%20Did%C3%A1ctica"></string>
+        <string value="exe-node:El%20juego%20de%20la%20intersecci%C3%B3n%20de%20se%C3%B1ales%20de%20PRL:Secuencia%20Did%C3%A1ctica"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2680,7 +2684,7 @@ learning tasks."></unicode>
                 <string role="key" value="_storageName"></string>
                 <string value="Dobble de prevencion de riesgos en Itinerario Personal para la Empleabilidad-Ejemplo.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpRZF8mq/Dobble de prevencion de riesgos en Itinerario Personal para la Empleabilidad-Ejemplo.pdf"></string>
+                <string value="/tmp/tmpX6BO2n/Dobble de prevencion de riesgos en Itinerario Personal para la Empleabilidad-Ejemplo.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="aa4e43ce0925eafa3f6d61c79b04b00b"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2738,7 +2742,7 @@ learning tasks."></unicode>
                 <string role="key" value="_storageName"></string>
                 <string value="Ficha de Documentacion Basica - Norma ISO 7010 - Editable.odt"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpRZF8mq/Ficha de Documentacion Basica - Norma ISO 7010 - Editable.odt"></string>
+                <string value="/tmp/tmpX6BO2n/Ficha de Documentacion Basica - Norma ISO 7010 - Editable.odt"></string>
                 <string role="key" value="checksum"></string>
                 <string value="234bcb8cb32b4cc7cbbe123cd8a98577"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2796,7 +2800,7 @@ learning tasks."></unicode>
                 <string role="key" value="_storageName"></string>
                 <string value="Ficha de Documentacion Basica - Norma ISO 7010 - Imprimible.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpRZF8mq/Ficha de Documentacion Basica - Norma ISO 7010 - Imprimible.pdf"></string>
+                <string value="/tmp/tmpX6BO2n/Ficha de Documentacion Basica - Norma ISO 7010 - Imprimible.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="980aaee75d7cbeb1ea445fb5a24d88ac"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2854,7 +2858,7 @@ learning tasks."></unicode>
                 <string role="key" value="_storageName"></string>
                 <string value="Plantilla de tabla de simbolos.odt"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpRZF8mq/Plantilla de tabla de simbolos.odt"></string>
+                <string value="/tmp/tmpX6BO2n/Plantilla de tabla de simbolos.odt"></string>
                 <string role="key" value="checksum"></string>
                 <string value="d34600fcb417bbf485bcdab673ce0ec8"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2912,7 +2916,7 @@ learning tasks."></unicode>
                 <string role="key" value="_storageName"></string>
                 <string value="Plantilla digital de carta circular de 8 simbolos - sustituir texto en rojo.png"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpRZF8mq/Plantilla digital de carta circular de 8 simbolos - sustituir texto en rojo.png"></string>
+                <string value="/tmp/tmpX6BO2n/Plantilla digital de carta circular de 8 simbolos - sustituir texto en rojo.png"></string>
                 <string role="key" value="checksum"></string>
                 <string value="88ed88e92e19273b6f7718284771965a"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2970,7 +2974,7 @@ learning tasks."></unicode>
                 <string role="key" value="_storageName"></string>
                 <string value="Plantilla digital segunda de carta circular de 8 simbolos - sustituir texto en rojo.png"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpRZF8mq/Plantilla digital segunda de carta circular de 8 simbolos - sustituir texto en rojo.png"></string>
+                <string value="/tmp/tmpX6BO2n/Plantilla digital segunda de carta circular de 8 simbolos - sustituir texto en rojo.png"></string>
                 <string role="key" value="checksum"></string>
                 <string value="7046e8adf780e7474f13dad2f8d3cfd1"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3028,7 +3032,7 @@ learning tasks."></unicode>
                 <string role="key" value="_storageName"></string>
                 <string value="Ficha de Reflexion Grupal y Retroalimentacion - imprimible.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpRZF8mq/Ficha de Reflexion Grupal y Retroalimentacion - imprimible.pdf"></string>
+                <string value="/tmp/tmpX6BO2n/Ficha de Reflexion Grupal y Retroalimentacion - imprimible.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="7c70e9bc413e4dd0f3e22063122e4bfd"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3086,7 +3090,7 @@ learning tasks."></unicode>
                 <string role="key" value="_storageName"></string>
                 <string value="Ficha de Reflexion Grupal y Retroalimentacion - editable.odt"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpRZF8mq/Ficha de Reflexion Grupal y Retroalimentacion - editable.odt"></string>
+                <string value="/tmp/tmpX6BO2n/Ficha de Reflexion Grupal y Retroalimentacion - editable.odt"></string>
                 <string role="key" value="checksum"></string>
                 <string value="d9ab88ab091360d1eedb903686fd1c57"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3666,6 +3670,8 @@ learning tasks."></unicode>
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Participación activa&lt;/strong&gt;: 15%&lt;/li&gt;
@@ -3698,7 +3704,7 @@ learning tasks."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="52"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3799,6 +3805,8 @@ learning tasks."></unicode>
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Esta situación de aprendizaje está diseñada bajo los principios del&lt;strong&gt; Diseño Universal para el Aprendizaje (DUA)&lt;/strong&gt;, promoviendo una enseñanza inclusiva que atienda la diversidad del alumnado. En primer lugar, se aplica el principio de &lt;strong&gt;Proporcionar múltiples formas de representación&lt;/strong&gt;, ofreciendo los contenidos sobre las señales de la norma ISO 7010 en formatos diversos: visual (imágenes de las señales), auditivo (explicaciones orales) y textual (fichas y guías). También se fomenta el principio de &lt;strong&gt;Proporcionar múltiples formas de acción y expresión&lt;/strong&gt;, ya que el alumnado tiene la posibilidad de participar en actividades prácticas como la creación del juego Dobble, diseñar instrucciones, y expresar su aprendizaje de manera creativa mediante el juego. Finalmente, se garantiza el principio de &lt;strong&gt;Proporcionar múltiples formas de implicación&lt;/strong&gt;, incorporando actividades motivadoras como el diseño de un juego interactivo, trabajo en equipo, y una retroalimentación significativa que conecta con intereses y experiencias individuales.&lt;/p&gt;
 &lt;p&gt;Además, se incorporan prácticas inclusivas específicas, como la asignación de roles dentro del grupo según las fortalezas del alumnado, la flexibilización del tiempo para realizar las tareas, y la posibilidad de usar apoyos visuales y tecnológicos. Estas medidas aseguran que todo el alumnado, independientemente de sus capacidades o estilos de aprendizaje, pueda participar de manera activa y significativa en el proceso.&lt;/p&gt;&lt;/div&gt;"></unicode>
@@ -3824,7 +3832,7 @@ learning tasks."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="52"></reference>
              </dictionary>
             </instance>
            </list>
@@ -3864,7 +3872,7 @@ learning tasks."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:El%20juego%20de%20la%20instersecci%C3%B3n%20de%20se%C3%B1ales%20de%20PRL:Gu%C3%ADa%20Did%C3%A1ctica"></string>
+        <string value="exe-node:El%20juego%20de%20la%20intersecci%C3%B3n%20de%20se%C3%B1ales%20de%20PRL:Gu%C3%ADa%20Did%C3%A1ctica"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -3952,6 +3960,8 @@ learning tasks."></unicode>
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;figure class=&quot;exe-figure exe-image position-center license-CC-BY-SA&quot; style=&quot;width: 320px; text-align: center;&quot;&gt;&lt;img src=&quot;resources/IMG_9056.png&quot; alt=&quot;Yo saludando en uan postal&quot; width=&quot;320&quot; height=&quot;232&quot; /&gt;
 &lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;span class=&quot;author&quot;&gt;Joaquín C.A.&lt;/span&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Saludando en una postal&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/licenses/?lang=es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons BY-SA&quot;&gt;CC BY-SA&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
@@ -3983,7 +3993,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="335"></int>
+                     <int value="362"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -3997,7 +4007,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="15_130_2.0"></unicode>
+                   <unicode value="15_130_2.4"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="72">
                     <dictionary>
@@ -4008,7 +4018,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="IMG_9056.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmp2p6lp5.eXe/previews/allyourbase/IMG_9056.png"></string>
+                     <string value="/tmp/tmpX6BO2n/IMG_9056.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="dbf11f6d6c219361d100006ee5dc895a"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4035,7 +4045,7 @@ learning tasks."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="336"></int>
+                     <int value="370"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -4049,7 +4059,7 @@ learning tasks."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="15_130_2.1"></unicode>
+                   <unicode value="15_130_2.5"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="73">
                     <dictionary>
@@ -4060,7 +4070,7 @@ learning tasks."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="CC-BY_SA.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="/tmp/tmp2p6lp5.eXe/previews/allyourbase/CC-BY_SA.png"></string>
+                     <string value="/tmp/tmpX6BO2n/CC-BY_SA.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8b3aa222b6d3c172c23f470d45e68392"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4089,7 +4099,7 @@ learning tasks."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="2"></int>
+              <int value="6"></int>
               <string role="key" value="parentNode"></string>
               <reference key="71"></reference>
              </dictionary>
@@ -4195,6 +4205,8 @@ learning tasks."></unicode>
               <string value=""></string>
               <string role="key" value="anchor_names"></string>
               <list></list>
+              <string role="key" value="anchors_linked_from_fields"></string>
+              <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-download-package-instructions&quot;&gt;&lt;table class=&quot;exe-table&quot;&gt;&lt;caption&gt;Información general sobre este recurso educativo&lt;/caption&gt;
 &lt;tbody&gt;
@@ -4239,7 +4251,7 @@ learning tasks."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <none></none>
+              <reference key="71"></reference>
              </dictionary>
             </instance>
            </list>
@@ -4279,7 +4291,7 @@ learning tasks."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:El%20juego%20de%20la%20instersecci%C3%B3n%20de%20se%C3%B1ales%20de%20PRL:Cr%C3%A9ditos"></string>
+        <string value="exe-node:El%20juego%20de%20la%20intersecci%C3%B3n%20de%20se%C3%B1ales%20de%20PRL:Cr%C3%A9ditos"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
